@@ -48,7 +48,6 @@ def run():
     while True:
         lastid=id[-1]
         tweets=fetchtweets(api,os.getenv('keyword'),lastid)
-        print(tweets)
         for tweet in tweets:
             if tweet['text'][:2]=="RT" or tweet['text'][:1]=="@" :
                 continue
