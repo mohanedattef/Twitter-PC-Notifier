@@ -16,3 +16,6 @@ There are two scripts:
 **stream.py:** this one uses the stream function in the tweepy library to always constantly bring up the latest tweets but queuing tweets might be a minute late or so if it's a largly popular keyword.
 
 
+## to be added:
+1-Sentiment Analysis for tweets  
+2-Profiling  
