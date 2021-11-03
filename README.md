@@ -17,5 +17,6 @@ There are two scripts:
 
 
 ## to be added:
-1-Sentiment Analysis for tweets  
+1-Mobile notifications
 2-Profiling  
+3-Sentiment Analysis for tweets  
