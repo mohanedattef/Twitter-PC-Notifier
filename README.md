@@ -10,7 +10,7 @@ pip3 install git+https://github.com/WeebMogul/Windows-10-Toast-Notifications
 ```
 
 ## methods of running:
-There are two scripts: 
+There are two scripts:
 **search.py:** this script fetches tweets first through your desired keyword and filters the retweets and replys and goes through them before fetching new ones with a date closer to the last tweet fetched, this method works best with keyword that are not largely popular and might miss a tweet or two but it's always gonna bring up the latest tweet.
 
 **stream.py:** this one uses the stream function in the tweepy library to always constantly bring up the latest tweets but queuing tweets might be a minute late or so if it's a largly popular keyword.
