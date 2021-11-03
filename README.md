@@ -1,5 +1,5 @@
 # Twitter PC Notifier:
-This is a twitter notifiter for windows 10 that brings clickable tweets of your choice to your notification center, Made using tweepy and win10toast libraries   
+This is a twitter notifiter for windows 10 that brings clickable real time tweets of your choice to your notification center, Made using tweepy and win10toast libraries   
 
 ## requirements:
 -tweepy 4.2.0  
